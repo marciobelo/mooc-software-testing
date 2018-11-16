@@ -76,3 +76,8 @@ target/
 *.class
 
 # End of https://www.gitignore.io/api/intellij
+
+# extensao para o eclipse
+.metadata
+RemoteSystemsTempFiles
+*~
