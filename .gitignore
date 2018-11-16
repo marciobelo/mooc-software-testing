@@ -81,3 +81,6 @@ target/
 .metadata
 RemoteSystemsTempFiles
 *~
+.classpath
+.project
+.settings/
